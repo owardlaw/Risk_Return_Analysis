@@ -1,6 +1,6 @@
 # Risk_Return_Analysis
 
-This is a JupyterLab based program aimed at assisting users in investment based on various metrics. 
+This is a JupyterLab/Python based program aimed at assisting users in investment based on various metrics. 
 ---
 
 ## Technologies
@@ -13,6 +13,7 @@ This project leverages python 3.7 with the following packages:
 
 * [numpy](https://github.com/numpy/numpy) - For math. 
 
+* [jupyterlab](https://jupyter.org/install.html) - For visualize the code in a modular format. 
 
 ---
 
@@ -24,6 +25,8 @@ Before running the application first install the following.
   pip install pathlib
   pip install pandas
   pip install numpy
+  pip install jupyterlab
+
 ```
 
 ---
